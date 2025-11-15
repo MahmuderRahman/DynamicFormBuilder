@@ -1,0 +1,138 @@
+﻿
+@model DynamicFormBuilder.ViewModels.FormCreateViewModel
+
+
+<div class="container mt-4">
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-header bg-secondary text-white d-flex justify-content-between align-items-center">
+            <h4 class="mb-0">Create Dynamic Form</h4>
+        </div>
+        <div class="card-body">
+            <form id="formCreate" asp-action="Create" method="post">
+                <div class="mb-3">
+                    <label class="form-label">Form Title *</label>
+                    <input type="text" name="Title" id="Title" class="form-control" placeholder="Enter form title" />
+                </div>
+
+                <h5>Form Fields</h5>
+                <div id="fieldsContainer"></div>
+
+                <div class="mb-3 d-flex gap-2 mt-3">
+                    <button type="button" id="addMore" class="btn btn-secondary">Add Field</button>
+                    <button type="submit" class="btn btn-success">Submit</button>
+                    <button type="button" id="clearForm" class="btn btn-warning">Clear</button>
+
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+
+    <div class="card shadow-sm">
+        <div class="card-header bg-secondary text-white d-flex justify-content-between align-items-center">
+            <h4 class="mb-0">Form List</h4>
+        </div>
+        <div class="card-body">
+            <div class="mb-3">
+                <input type="text" id="searchBox" class="form-control" placeholder="Search by title..." />
+            </div>
+            <div class="table-responsive p-0">
+                <table id="formsTable" class="table table-bordered table-striped table-condensed mb-0" style="width: 100%;">
+                    <thead>
+                        <tr>
+                            <th style="width: 50px; text-align: center;">#SL</th>
+                            <th>Title</th>
+                            <th style="width: 150px; text-align: center;">Created At</th>
+                            <th style="width: 150px; text-align: center;">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<div class="modal fade" id="previewModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Form Preview</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="field-template d-none">
+    <div class="field-block border p-3 rounded mt-3">
+        <div class="mb-2">
+            <label>Field Type</label>
+            <select class="form-control fieldType">
+                <option value="Text">Text</option>
+                <option value="Dropdown">Dropdown</option>
+                <option value="Number">Number</option>
+            </select>
+        </div>
+
+        <div class="mb-2">
+            <label>Field Label</label>
+            <input type="text" class="form-control label" placeholder="Enter field label" />
+        </div>
+
+        <div class="form-check mb-2">
+            <input type="checkbox" class="form-check-input required">
+            <label class="form-check-label">Required</label>
+        </div>
+
+
+        <div class="mt-2 dropdown-options-container" style="display:none;">
+            <label>Select Option</label>
+            <div class="input-group">
+                <select class="form-select dropdownMasterId">
+                    <option value="">Select Item</option>
+                </select>
+                <button type="button" class="btn btn-outline-success add-dropdown-option">
+                    <i class="fa fa-plus"></i>
+                </button>
+            </div>
+        </div>
+
+
+        <button type="button" class="btn btn-danger btn-sm mt-2 remove-field">Remove</button>
+    </div>
+</div>
+
+<div class="modal fade" id="addOptionModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Add Option</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-2">
+                    <label>Option Name *</label>
+                    <input type="text" id="newDropdownName" class="form-control" placeholder="Enter option name" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="saveOptionBtn" class="btn btn-success">Save</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/form.js"></script>
+}

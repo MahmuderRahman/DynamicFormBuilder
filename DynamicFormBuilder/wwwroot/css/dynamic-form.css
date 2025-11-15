@@ -1,0 +1,6 @@
+.custom-link {
+    border-bottom: 2px solid #000;
+    padding-bottom: 3px;
+    text-decoration: none;
+    cursor: pointer;
+}

@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:views\\form\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\viewmodels\\formcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:viewmodels\\formcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\service\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:service\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\service\\dropdownservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:service\\dropdownservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\models\\formfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:models\\formfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\models\\dropdownmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:models\\dropdownmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\controllers\\dropdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:controllers\\dropdowncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\context\\dynamicformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:context\\dynamicformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\wwwroot\\js\\message.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:wwwroot\\js\\message.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\wwwroot\\js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:wwwroot\\js\\form.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\wwwroot\\js\\ajax-manager.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:wwwroot\\js\\ajax-manager.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\wwwroot\\css\\dynamic-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:wwwroot\\css\\dynamic-form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|e:\\dynamicformbuilder\\dynamicformbuilder\\dynamicformbuilder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E595BE95-DEE7-4996-AC49-8F6B11E3E4F5}|DynamicFormBuilder.csproj|solutionrelative:dynamicformbuilder.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Models\\Form.cs",
+              "RelativeDocumentMoniker": "Models\\Form.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Models\\Form.cs",
+              "RelativeToolTip": "Models\\Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:05:29.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormField.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Models\\FormField.cs",
+              "RelativeDocumentMoniker": "Models\\FormField.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Models\\FormField.cs",
+              "RelativeToolTip": "Models\\FormField.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:05:46.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DropdownService.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Service\\DropdownService.cs",
+              "RelativeDocumentMoniker": "Service\\DropdownService.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Service\\DropdownService.cs",
+              "RelativeToolTip": "Service\\DropdownService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:01:16.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormService.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Service\\FormService.cs",
+              "RelativeDocumentMoniker": "Service\\FormService.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Service\\FormService.cs",
+              "RelativeToolTip": "Service\\FormService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:11:20.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCreateViewModel.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\ViewModels\\FormCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\FormCreateViewModel.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\ViewModels\\FormCreateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\FormCreateViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T15:46:18.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\Form\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Form\\Index.cshtml",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\Form\\Index.cshtml",
+              "RelativeToolTip": "Views\\Form\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T16:04:13.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T17:29:54.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:59:38.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:58:00.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DropdownMaster.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Models\\DropdownMaster.cs",
+              "RelativeDocumentMoniker": "Models\\DropdownMaster.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Models\\DropdownMaster.cs",
+              "RelativeToolTip": "Models\\DropdownMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:58:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:03:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FormController.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Controllers\\FormController.cs",
+              "RelativeToolTip": "Controllers\\FormController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:21:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DropdownController.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Controllers\\DropdownController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DropdownController.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Controllers\\DropdownController.cs",
+              "RelativeToolTip": "Controllers\\DropdownController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:04:05.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DynamicFormDbContext.cs",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Context\\DynamicFormDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\DynamicFormDbContext.cs",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Context\\DynamicFormDbContext.cs",
+              "RelativeToolTip": "Context\\DynamicFormDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:17:48.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "message.js",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\js\\message.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\message.js",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\js\\message.js",
+              "RelativeToolTip": "wwwroot\\js\\message.js",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-14T05:18:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "form.js",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\js\\form.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\form.js",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\js\\form.js",
+              "RelativeToolTip": "wwwroot\\js\\form.js",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAgwLIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-12T17:24:19.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ajax-manager.js",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\js\\ajax-manager.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\ajax-manager.js",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\js\\ajax-manager.js",
+              "RelativeToolTip": "wwwroot\\js\\ajax-manager.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-14T04:51:14.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-15T17:57:34.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T15:53:50.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T10:36:07.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T10:36:04.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dynamic-form.css",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\css\\dynamic-form.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\dynamic-form.css",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\wwwroot\\css\\dynamic-form.css",
+              "RelativeToolTip": "wwwroot\\css\\dynamic-form.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-14T10:44:02.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T10:36:10.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DynamicFormBuilder.csproj",
+              "DocumentMoniker": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\DynamicFormBuilder.csproj",
+              "RelativeDocumentMoniker": "DynamicFormBuilder.csproj",
+              "ToolTip": "E:\\DynamicFormBuilder\\DynamicFormBuilder\\DynamicFormBuilder.csproj",
+              "RelativeToolTip": "DynamicFormBuilder.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T16:20:23.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
